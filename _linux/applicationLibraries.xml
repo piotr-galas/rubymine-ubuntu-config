@@ -396,6 +396,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activemodel-serializers-xml-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel-serializers-xml (v1.0.1, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activemodel-serializers-xml-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activemodel-serializers-xml-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v3.1.11, RVM: ruby-2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2/gems/activerecord-3.1.11/lib" />
@@ -2894,6 +2902,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/draper-3.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/draper-3.0.0/.github" />
+      </SOURCES>
+    </library>
+    <library name="draper (v3.0.0, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/draper-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/draper-3.0.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/draper-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/draper-3.0.0/.github" />
       </SOURCES>
     </library>
     <library name="draper (v3.0.0.pre1, RVM: ruby-2.3.1 [rails5.0]) [gem]">
