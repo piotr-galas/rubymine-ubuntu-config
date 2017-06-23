@@ -252,6 +252,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/active_model_serializers-0.10.5/.github" />
       </SOURCES>
     </library>
+    <library name="active_model_serializers (v0.10.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/active_model_serializers-0.10.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/active_model_serializers-0.10.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/active_model_serializers-0.10.6/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/active_model_serializers-0.10.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/active_model_serializers-0.10.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/active_model_serializers-0.10.6/.github" />
+      </SOURCES>
+    </library>
     <library name="activejob (v5.0.0, RVM: ruby-2.3.1 [philips]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@philips/gems/activejob-5.0.0/lib" />
@@ -5682,6 +5694,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nio4r-2.0.0/tasks" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.1.0, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nio4r-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nio4r-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nio4r-2.1.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nio4r-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nio4r-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nio4r-2.1.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.5.5, RVM: ruby-2.1.2) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.5.5" />
@@ -6916,6 +6942,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails_best_practices-1.18.1/assets" />
       </SOURCES>
     </library>
+    <library name="rails_best_practices (v1.18.1, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rails_best_practices-1.18.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rails_best_practices-1.18.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rails_best_practices-1.18.1/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rails_best_practices-1.18.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rails_best_practices-1.18.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rails_best_practices-1.18.1/assets" />
+      </SOURCES>
+    </library>
     <library name="rails_event_store (v0.14.3, RVM: ruby-2.3.1 [rails5.0]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/rails_event_store-0.14.3/lib" />
@@ -7080,6 +7118,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rainbow-2.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rainbow-2.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.2.2, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rainbow-2.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rainbow-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rainbow-2.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rainbow-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="rake (v10.0.3, RVM: ruby-2.1.2) [gem]">
@@ -7424,6 +7472,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/reek-4.6.2/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/reek-4.6.2/samples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/reek-4.6.2/features" />
+      </SOURCES>
+    </library>
+    <library name="reek (v4.6.2, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/reek-4.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/reek-4.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/reek-4.6.2/logo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/reek-4.6.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/reek-4.6.2/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/reek-4.6.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/reek-4.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/reek-4.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/reek-4.6.2/logo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/reek-4.6.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/reek-4.6.2/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/reek-4.6.2/features" />
       </SOURCES>
     </library>
     <library name="reek (v4.7.1, RVM: ruby-2.3.1 [philips]) [gem]">
@@ -8458,6 +8524,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/sass-rails-5.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v6.0.0.beta1@dd04a6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/bundler/gems/sass-rails-dd04a6a6d19c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/bundler/gems/sass-rails-dd04a6a6d19c/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/bundler/gems/sass-rails-dd04a6a6d19c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/bundler/gems/sass-rails-dd04a6a6d19c/gemfiles" />
       </SOURCES>
     </library>
     <library name="sass-rails (v6.0.0.beta1@dfbcc6, RVM: ruby-2.4.0) [gem]">
@@ -9930,6 +10006,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/webpacker-1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="webpacker (v2.0, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/webpacker-2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/webpacker-2.0/lib" />
       </SOURCES>
     </library>
     <library name="websocket (v1.2.4, RVM: ruby-2.4.0) [gem]">
