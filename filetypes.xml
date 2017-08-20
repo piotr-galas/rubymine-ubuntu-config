@@ -6,6 +6,7 @@
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern="partner" type="PLAIN_TEXT" />
       <mapping pattern="typescript" type="PLAIN_TEXT" />
+      <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="rb\" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
