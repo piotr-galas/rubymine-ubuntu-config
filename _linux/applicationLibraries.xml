@@ -11834,6 +11834,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/bundler/gems/use_case_flow-4d5bf7fab7a0/lib" />
       </SOURCES>
     </library>
+    <library name="use_case_flow (v1.0.0, RVM: ruby-2.3.1 [rails5.0]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/use_case_flow-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/use_case_flow-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/use_case_flow-1.0.0/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/use_case_flow-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/use_case_flow-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rails5.0/gems/use_case_flow-1.0.0/example" />
+      </SOURCES>
+    </library>
     <library name="virtus (v1.0.5, RVM: ruby-2.3.1 [philips]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@philips/gems/virtus-1.0.5/lib" />
