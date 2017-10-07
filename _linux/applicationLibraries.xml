@@ -5980,6 +5980,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.2/gems/mailman-0.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="materialize-sass (v0.98.0, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/materialize-sass-0.98.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/materialize-sass-0.98.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/materialize-sass-0.98.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/materialize-sass-0.98.0/lib" />
+      </SOURCES>
+    </library>
     <library name="meta_request (v0.4.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/meta_request-0.4.0/lib" />
@@ -6866,6 +6876,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.7.0.1/suppressions" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.7.0.1, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.0.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.0.1/suppressions" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.7.1, RVM: ruby-2.4.0) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.1" />
@@ -7526,6 +7554,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/puma-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/puma-3.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/puma-3.4.0/tools" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.7.1, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.7.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.7.1/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.7.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.7.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.7.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.7.1/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.7.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.7.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="puma (v3.8.2, RVM: ruby-2.3.1 [philips]) [gem]">
