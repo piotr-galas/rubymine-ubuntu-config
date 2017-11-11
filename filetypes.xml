@@ -5,6 +5,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
+      <mapping pattern=".reek" type="PLAIN_TEXT" />
       <mapping pattern="partner" type="PLAIN_TEXT" />
       <mapping pattern="typescript" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
