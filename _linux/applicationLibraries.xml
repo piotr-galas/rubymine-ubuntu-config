@@ -104,6 +104,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/actionmailer-4.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v4.2.7.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionmailer-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionmailer-4.2.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v5.0.0, RVM: ruby-2.3.1 [philips]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@philips/gems/actionmailer-5.0.0/lib" />
@@ -208,6 +216,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/actionpack-4.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v4.2.7.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v4.2.8, RVM: ruby-2.3.1 [philips]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@philips/gems/actionpack-4.2.8/lib" />
@@ -310,6 +326,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/actionview-4.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.2.7.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionview-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionview-4.2.7.1/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v4.2.8, RVM: ruby-2.3.1 [philips]) [gem]">
@@ -452,6 +476,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/activejob-4.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v4.2.7.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activejob-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activejob-4.2.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v5.0.0, RVM: ruby-2.3.1 [philips]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@philips/gems/activejob-5.0.0/lib" />
@@ -546,6 +578,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/activemodel-4.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v4.2.7.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activemodel-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activemodel-4.2.7.1/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v4.2.8, RVM: ruby-2.3.1 [philips]) [gem]">
@@ -700,6 +740,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/activerecord-4.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord (v4.2.7.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activerecord-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activerecord-4.2.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v5.0.0, RVM: ruby-2.3.1 [philips]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@philips/gems/activerecord-5.0.0/lib" />
@@ -826,6 +874,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/activesupport-4.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.2.7.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activesupport-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activesupport-4.2.7.1/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v4.2.8, RVM: ruby-2.3.1 [philips]) [gem]">
@@ -10430,6 +10486,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/rails-4.2.0/guides" />
       </SOURCES>
     </library>
+    <library name="rails (v4.2.7.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-4.2.7.1/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-4.2.7.1/guides" />
+      </SOURCES>
+    </library>
     <library name="rails (v5.0.0, RVM: ruby-2.3.1 [philips]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@philips/gems/rails-5.0.0" />
@@ -10900,6 +10964,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/railties-4.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/railties-4.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v4.2.7.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/railties-4.2.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/railties-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/railties-4.2.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/railties-4.2.7.1/lib" />
       </SOURCES>
     </library>
     <library name="railties (v4.2.8, RVM: ruby-2.3.1 [philips]) [gem]">
@@ -15008,6 +15082,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/tilt-2.0.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/tilt-2.0.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/tilt-2.0.8/man" />
+      </SOURCES>
+    </library>
+    <library name="traceroute (v0.5.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/traceroute-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/traceroute-0.5.0/lib" />
       </SOURCES>
     </library>
     <library name="traceroute (v0.5.0, RVM: ruby-2.4.0) [gem]">
